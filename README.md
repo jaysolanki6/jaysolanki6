@@ -36,29 +36,10 @@ Here are a few projects I'm proud of:
 ## Connect with Me
 - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
 - LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/jay-solanki-846835316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Website: [YourWebsite](https://yourwebsite.com)
-
-## Photos
-![Photo 1](url-to-photo-1)
-![Photo 2](url-to-photo-2)
-<!-- Add more photos as needed -->
 
 
 
-h1 {
-  color: #333;
-  border-bottom: 2px solid #333;
-  padding-bottom: 5px;
-}
 
-/* Customize further as per your preference */
-)
-- LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
-- Website: [YourWebsite](https://yourwebsite.com)
-
-## Photos
-![Photo 1](url-to-photo-1)
-![Photo 2](url-to-photo-2)
 
 
 
