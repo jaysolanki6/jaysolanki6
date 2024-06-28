@@ -1,3 +1,67 @@
+# Hello, I'm jay solanki 👋
+
+## About Me
+I'm a passionate web developer with skills in HTML, CSS, JavaScript, and Java. I enjoy creating responsive and interactive web applications that deliver great user experiences.
+
+## Skills
+- HTML5
+- CSS3
+- JavaScript 
+- Java
+
+## Projects
+Here are a few projects I'm proud of:
+- [Project 1](link): Short description
+- [Project 2](link): Short description
+- [Project 3](link): Short description
+
+## Connect with Me
+- GitHub: [YourGitHubUsername](# Hello, I'm [Your Name] 👋
+
+## About Me
+I'm a passionate web developer with skills in HTML, CSS, JavaScript, and Java. I enjoy creating responsive and interactive web applications that deliver great user experiences.
+
+## Skills
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Java
+
+## Projects
+Here are a few projects I'm proud of:
+- [Project 1](link): Short description
+- [Project 2](link): Short description
+- [Project 3](link): Short description
+
+## Connect with Me
+- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/jay-solanki-846835316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Website: [YourWebsite](https://yourwebsite.com)
+
+## Photos
+![Photo 1](url-to-photo-1)
+![Photo 2](url-to-photo-2)
+<!-- Add more photos as needed -->
+
+
+
+h1 {
+  color: #333;
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+}
+
+/* Customize further as per your preference */
+)
+- LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
+- Website: [YourWebsite](https://yourwebsite.com)
+
+## Photos
+![Photo 1](url-to-photo-1)
+![Photo 2](url-to-photo-2)
+
+
+
 <h1 align="center">Hi 👋, I'm jay solanki</h1>
 <h3 align="center">web developer from India</h3>
 
